@@ -1,0 +1,26 @@
+{
+  "name": "createobservableservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@reduxjs/toolkit": "1.6.2",
+    "omnibus-rxjs": "0.9.7",
+    "parcel-bundler": "^1.6.1",
+    "polyrhythm": "1.3.0",
+    "redux": "4.1.1",
+    "rxjs": "7.4.0",
+    "typescript-fsa": "3.0.0"
+  },
+  "devDependencies": {
+    "typescript": "4.2.3"
+  },
+  "resolutions": {
+    "@babel/preset-env": "7.13.8"
+  },
+  "keywords": []
+}
